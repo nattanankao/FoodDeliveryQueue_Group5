@@ -1,7 +1,5 @@
 # Food Delivery Order Queue
 
-> **Queue Algorithm Design & Analysis with Java**
-
 โปรเจกต์นี้เป็นการจำลองระบบจัดคิว Order ของร้านอาหารจาก Food Delivery Platform
 โดยเปรียบเทียบการจัดคิว 2 รูปแบบ เพื่อดูความแตกต่างด้าน **Waiting Time, Fairness และประสิทธิภาพ**
 

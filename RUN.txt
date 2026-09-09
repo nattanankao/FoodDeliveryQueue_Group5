@@ -1,0 +1,17 @@
+วิธีรันโปรแกรม
+
+1. เปิด Command Prompt / Terminal ในโฟลเดอร์นี้
+
+2. Compile
+   javac Main.java
+
+3. Run
+   java Main
+
+โปรแกรมจะรัน:
+- Algorithm A
+- Algorithm B
+- Queue Trace
+- 6 Test Cases
+- Experiment
+- Summary
